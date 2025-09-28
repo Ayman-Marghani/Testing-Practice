@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch reverseString*.js"
+    "watch": "jest --watch calculator*.js"
   },
   "devDependencies": {
     "jest": "^29.7.0"
